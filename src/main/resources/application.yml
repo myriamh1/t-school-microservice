@@ -12,7 +12,7 @@ server:
 
 # Cloudant Configuration
 cloudant:
-    db: demo-now
-    username: 95546fb7-eb3a-4fd6-94aa-61a3da6d1ffb-bluemix
-    password: ad42ec501aab0f66e888fff51563879a5b36055271d257699494a19bf71d65ff
-    url: https://95546fb7-eb3a-4fd6-94aa-61a3da6d1ffb-bluemix.cloudant.com
+    db: accountdb
+    username: a09a53a7-097a-4b55-899d-18dc714aabba-bluemix
+    password: 3de0d46817cdaf50ded0b3a98eeeef48b062d44071bba7a193aa4b31bfb722f8
+    url: https://a09a53a7-097a-4b55-899d-18dc714aabba-bluemix:3de0d46817cdaf50ded0b3a98eeeef48b062d44071bba7a193aa4b31bfb722f8@a09a53a7-097a-4b55-899d-18dc714aabba-bluemix.cloudant.com
