@@ -112,7 +112,7 @@ To complete this tutorial, you will need the following:
         }' 
         EOF
     ```
-If the POST request return HTTP response 200 - OK, then the document is successfully inserted. Igonre the response message 'Unexpected d'. 
+If the POST request returns HTTP response 200 - OK, means the document is successfully inserted. Igonre the response message 'Unexpected d'. 
 
 To query the account that you just inserted use url http://localhost:8080/micro/account?accountId=14402
 
